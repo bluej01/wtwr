@@ -1,0 +1,21 @@
+/* Header */
+
+header h1 {
+    font-family: "WeThePeople";
+    font-size: 6rem;
+}
+
+/* Main */
+
+.item {
+    width: 200px;
+    height: 200px;
+}
+
+.item a {
+    color: black;
+}
+
+.item h4 {
+    margin-top: .8rem;
+}
