@@ -26,3 +26,7 @@ h3 {
 .item h5 {
     margin: .5rem 0rem 0rem 0rem;
 }
+
+.item li {
+    width: 17rem;
+}

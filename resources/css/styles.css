@@ -112,6 +112,16 @@ footer a {
     padding: 1.5rem;
 }
 
+@media only screen and (max-width: 625px) {
+    nav {
+        text-align: center;
+    }
+    
+    footer {
+        text-align: center;
+    }
+}
+
 @media only screen and (max-width: 380px) {
     nav {
         text-align: center;
