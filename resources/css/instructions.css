@@ -23,6 +23,10 @@ h3 {
     scrollbar-width: thin;
 }
 
+.no-scroll {
+    overflow: visible;
+}
+
 .item h5 {
     margin: .5rem 0rem 0rem 0rem;
 }
